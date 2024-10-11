@@ -14,6 +14,10 @@ You can find me at:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqeusxnunes)](https://www.linkedin.com/in/jacquesxnunes)
 
 
+____
 
+[![Jacques's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=jacquesxnunes&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/jacquesxnunes)
+<br>
+[![Felipe Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jacquesxnunes&langs_count=5&hide=json,properties,stylus&custom_title=Most%20Used%20Languages&theme=dark&range=all_time)](https://wakatime.com/@jacquesxnunes)
 
 
