@@ -10,7 +10,7 @@ You can find me at:
 - [Bitbucket](https://bitbucket.org/jacquesxnunes)
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/jacquesxnunes)](https://youtube.com/c/jacquesxnunes)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jacquesxnunes_)](https://twitter.com/jacquesxnunes_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jacquesxnunes)](https://twitter.com/jacquesxnunes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqeusxnunes)](https://www.linkedin.com/in/jacquesxnunes)
 
 
