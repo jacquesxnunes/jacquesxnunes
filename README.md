@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**jacquesxnunes/jacquesxnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jacques Nunes and I'm a Tech Lead and Develop. I've been working with (Senior 30+ | Tech Lead | Software Engineer | Full Stack | PHP | Laravel | CodeIgniter | API | JavaScript | Typescript | React | Next | CSS | MySQL | GitFlow | Docker Compose | Linux | Azure | AWS | Terraform | DevSecOps) and I'm currently Tech Lead at Lessclick.
 
-Here are some ideas to get you started:
+I am passionate about Technology. I work with technology and in my free time, I study more about technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me at:
+- [Linktree](https://linktr.ee/jacquesxnunes)
+- [LinkedIn](https://www.linkedin.com/in/jacquesxnunes/)
+- [Bitbucket](https://bitbucket.org/jacquesxnunes)
+
+
+
+
+
