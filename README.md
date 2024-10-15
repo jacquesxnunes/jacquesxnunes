@@ -4,7 +4,7 @@ My name is Jacques Nunes and I'm a Tech Lead and Develop. I've been working with
 
 I am passionate about Technology. I work with technology and in my free time, I study more about technology.
 
-"Virtually all the projects I have worked on are in private repositories, but I have a technical test project that I did for the TJ, which is in a public repository right here: https://bitbucket.org/jacquesxnunes/spassu-tj/src/develop/README.md"
+Virtually all the projects I have worked on are in private repositories, but I have a technical test project that I did for the TJ, which is in a public repository right here: https://bitbucket.org/jacquesxnunes/spassu-tj/src/develop/README.md
 
 You can find me at:
 - [Linktree](https://linktr.ee/jacquesxnunes)
@@ -15,6 +15,4 @@ You can find me at:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jacquesxnunes)](https://twitter.com/jacquesxnunes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacqeusxnunes)](https://www.linkedin.com/in/jacquesxnunes)
 
-
-____
 
